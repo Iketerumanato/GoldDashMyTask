@@ -5,10 +5,15 @@
 **自身の使用ツール**
 
 ・Unity ver 2022.3.30f1
+
 ↓主なライブラリ
+
 01,R3
+
 02,Dotween
+
 03,.Net
+
 04,JoyStickPac
 
 ・VisualStudio 2022
