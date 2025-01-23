@@ -1,6 +1,20 @@
-# GoldDashMyTask
+#![Screenshot_20250123-171043](https://github.com/user-attachments/assets/90601ba3-0b43-4de1-bdc3-dba2a729bc9b)
 
-**UIのレイアウトと開発**
+ GoldDashMyTask
+
+**自身の使用ツール**
+
+・Unity ver 2022.3.30f1
+↓主なライブラリ
+01,R3
+02,Dotween
+03,.Net
+04,JoyStickPac
+
+・VisualStudio 2022
+ 
+
+**UIアニメーション(Dotweenで作成)**
 
 01,クライアント、サーバー間の接続の際の画面中央のロゴアニメーション
 
